@@ -1,0 +1,29 @@
+@media (max-width: 1230px) {
+    .container {
+        width: 90%;
+      }
+}
+
+@media (max-width: 800px) {
+    nav {
+        display: none;
+    }
+
+    .fa-house {
+        display: inline-block;
+    }
+}
+
+
+@media (max-width: 768px) {
+    .sec-2 {
+        display: inline;
+        padding-left: 20px;
+    }
+}
+@media (max-width: 760px) {
+    .cart-container{
+        display: inline;
+        padding-left: 20px;
+    }
+}
